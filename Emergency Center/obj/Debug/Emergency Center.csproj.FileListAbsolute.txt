@@ -1,0 +1,10 @@
+C:\Users\i.Gerov\source\repos\Emergency Center\Emergency Center\bin\Debug\Emergency Center.exe.config
+C:\Users\i.Gerov\source\repos\Emergency Center\Emergency Center\bin\Debug\Emergency Center.exe
+C:\Users\i.Gerov\source\repos\Emergency Center\Emergency Center\bin\Debug\Emergency Center.pdb
+C:\Users\i.Gerov\source\repos\Emergency Center\Emergency Center\obj\Debug\Emergency Center.csprojResolveAssemblyReference.cache
+C:\Users\i.Gerov\source\repos\Emergency Center\Emergency Center\obj\Debug\Emergency_Center.Form1.resources
+C:\Users\i.Gerov\source\repos\Emergency Center\Emergency Center\obj\Debug\Emergency_Center.Properties.Resources.resources
+C:\Users\i.Gerov\source\repos\Emergency Center\Emergency Center\obj\Debug\Emergency Center.csproj.GenerateResource.Cache
+C:\Users\i.Gerov\source\repos\Emergency Center\Emergency Center\obj\Debug\Emergency Center.csproj.CoreCompileInputs.cache
+C:\Users\i.Gerov\source\repos\Emergency Center\Emergency Center\obj\Debug\Emergency Center.exe
+C:\Users\i.Gerov\source\repos\Emergency Center\Emergency Center\obj\Debug\Emergency Center.pdb
